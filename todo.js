@@ -13,7 +13,7 @@ console.log('Working');
     // .then(function(response){
     //   return response.json();
     // }).then(function(data){
-    //     tasks =data.slice(0,10);
+    //     tasks =data.slice(0,2);
     //     renderList();
     // })
     // .catch(function(error){
