@@ -6,3 +6,5 @@ this is responsive website.
 
 # repository link
 "https://github.com/Gitesh-Deore/Todolist.git"
+# hosted link
+"https://gitesh-deore.github.io/Todolist/"
